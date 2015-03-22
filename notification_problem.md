@@ -1,9 +1,14 @@
-The Bootstrap Problem
-=====================
+The Notification Problem
+========================
 
 How does a node get to know about activity in a multicast group or an
 invitation to a new group or a friendship request etc. when it happened
-while was offline?
+while he was offline?
+
+For instance, let's say an old friend of yours contacts you after years
+and invites you to his anniversary – while you are offline. In order to
+do that he will either use an old multicast group or set up a new one.
+Either way, how do you know he tried to contact you?
 
 
 What doesn't work
